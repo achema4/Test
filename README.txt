@@ -1,0 +1,1 @@
+Este archivo muestra las instrucciones de instalación de un proyecto nuevo en Git
